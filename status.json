@@ -1,0 +1,12 @@
+﻿{
+    "schema":  1,
+    "state":  "current",
+    "message":  "Audyt dla biezacego GTFS jest juz opublikowany",
+    "checkedAtUtc":  "2026-09-22T08:32:08.2695710Z",
+    "gtfsSha256":  "ab9f9a0abf5902e718600202bb9d87cd287c03cac4ee8ddda03064f15bb3171f",
+    "summary":  {
+                    "totalShapes":  449,
+                    "approvedShapes":  399,
+                    "rejectedShapes":  50
+                }
+}
